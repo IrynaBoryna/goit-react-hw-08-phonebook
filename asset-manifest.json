@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css",
+    "main.js": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/main.07d3183d.js",
+    "index.html": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/index.html",
+    "main.7acaea2f.css.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
