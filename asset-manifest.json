@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/main.07d3183d.js",
+    "main.css": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/main.c9ddca78.css",
+    "main.js": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/main.a0e397c3.js",
+    "static/js/983.297c215e.chunk.js": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/983.297c215e.chunk.js",
+    "static/css/662.e5fd0a57.chunk.css": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/662.e5fd0a57.chunk.css",
+    "static/js/662.39534acb.chunk.js": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/662.39534acb.chunk.js",
+    "static/css/713.6cbfffac.chunk.css": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/713.6cbfffac.chunk.css",
+    "static/js/713.fa2cfc22.chunk.js": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/713.fa2cfc22.chunk.js",
+    "static/css/119.5dd20101.chunk.css": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/119.5dd20101.chunk.css",
+    "static/js/119.d586daea.chunk.js": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/119.d586daea.chunk.js",
     "index.html": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/index.html",
-    "main.7acaea2f.css.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/main.07d3183d.js.map"
+    "main.c9ddca78.css.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/main.c9ddca78.css.map",
+    "main.a0e397c3.js.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/main.a0e397c3.js.map",
+    "983.297c215e.chunk.js.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/983.297c215e.chunk.js.map",
+    "662.e5fd0a57.chunk.css.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/662.e5fd0a57.chunk.css.map",
+    "662.39534acb.chunk.js.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/662.39534acb.chunk.js.map",
+    "713.6cbfffac.chunk.css.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/713.6cbfffac.chunk.css.map",
+    "713.fa2cfc22.chunk.js.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/713.fa2cfc22.chunk.js.map",
+    "119.5dd20101.chunk.css.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/css/119.5dd20101.chunk.css.map",
+    "119.d586daea.chunk.js.map": "/https://github.com/IrynaBoryna/goit-react-hw-08-phonebook/static/js/119.d586daea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.c9ddca78.css",
+    "static/js/main.a0e397c3.js"
   ]
 }
