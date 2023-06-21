@@ -22,9 +22,9 @@ useEffect(() => {
 }, [dispatch]);
 
   return (
-  // isRefreshing ? (
-  //   <b>Refreshing user...</b>
-  // ) : (
+  isRefreshing ? (
+    <b>Refreshing user...</b>
+  ) : (
     <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<HomePage />} />
@@ -33,7 +33,7 @@ useEffect(() => {
            <Route path="/contacts" element={<PrivateRoute redirectTo="/login" component={<ContactsPage />} />} />
         </Route>
       </Routes>
-  
+  )
   );
 }
 
