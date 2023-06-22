@@ -12,7 +12,6 @@ import { RegisterPage } from '../pages/Register';
 import { LoginPage } from '../pages/Login';
 import { ContactsPage } from '../pages/Contacts';
 
-
 // const HomePage = lazy(() => import('../pages/Home'));
 // const RegisterPage = lazy(() => import('../pages/Register'));
 // const LoginPage = lazy(() => import('../pages/Login'));
