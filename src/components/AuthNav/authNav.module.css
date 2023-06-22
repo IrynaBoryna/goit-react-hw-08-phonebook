@@ -2,8 +2,9 @@
   display: inline-block;
   text-decoration: none;
   padding: 12px;
-  font-weight: 700;
+  font-weight: 600;
   color: #2a363b;
+  font-size: 25px;
 }
 
 .link.active {

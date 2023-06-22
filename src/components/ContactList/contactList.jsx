@@ -10,10 +10,10 @@ export const ContactList = () => {
     const visibleContacts = useSelector(selectVisibleContacts);
   return (
     <ul className={css.contactList}>
-      {visibleContacts.map(({ name, phone, id }) => (
+      {visibleContacts.map(({ name, number, id }) => (
         <Item
           id={id}
-          number={phone}
+          number={number}
           name={name}
           onClick={() => dispatch(deleteContact(id))}
         />

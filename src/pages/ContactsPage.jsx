@@ -23,9 +23,9 @@ const error = useSelector(selectError);
                 width: 1100,
             }}
         >
-            <h1 style={{ fontSize: 60 }}>Phonebook</h1>
+            <h1 style={{ fontSize: 40 }}>Phonebook</h1>
             <ContactForm />
-            <h2 style={{ fontSize: 50 }}>Contacts</h2>
+            <h2 style={{ fontSize: 30 }}>Contacts</h2>
             <Filter />
             {isLoading && !error && <b>Request in progress...</b>}
             <ContactList />

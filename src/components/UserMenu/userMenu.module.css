@@ -2,8 +2,20 @@
   display: flex;
   align-items: center;
   gap: 12px;
+  font-size: 30px;
 }
 
 .username {
-  font-weight: 700;
+  font-weight: 600;
+  
+}
+.userEmail {
+  font-weight: 600;
+  color: blue;
+}
+.button {
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 10px;
 }
